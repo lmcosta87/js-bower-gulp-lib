@@ -1,0 +1,14 @@
+{
+  "plugins": [],
+  "extends": [
+    "eslint:recommended"
+  ],
+  "root": true,
+  "env": {
+    "browser": true,
+    "node": true,
+    "amd": true
+  },
+  "globals": {},
+  "rules": {}
+}

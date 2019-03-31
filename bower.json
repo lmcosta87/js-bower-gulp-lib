@@ -1,0 +1,21 @@
+{
+  "name": "JsLibrary",
+  "version": "1.0.0",
+  "authors": [
+    "Luís Costa <luismotacosta@outlook.pt>"
+  ],
+  "description": "",
+  "main": "dist/jsLibrary.js",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
